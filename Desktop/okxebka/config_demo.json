@@ -1,0 +1,11 @@
+{
+    "okx": {
+        "api_key": "YOUR_DEMO_API_KEY_HERE",
+        "secret_key": "YOUR_DEMO_SECRET_KEY_HERE", 
+        "passphrase": "YOUR_DEMO_PASSPHRASE_HERE",
+        "sandbox": true,
+        "base_url": "https://www.okx.com"
+    },
+    "default_leverage": 10,
+    "default_margin_mode": "cross"
+} 
