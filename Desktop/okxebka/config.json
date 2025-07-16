@@ -1,8 +1,8 @@
 {
     "okx": {
-        "api_key": "YOUR_API_KEY_HERE",
-        "secret_key": "YOUR_SECRET_KEY_HERE", 
-        "passphrase": "YOUR_PASSPHRASE_HERE",
+        "api_key": "019a51c5-64ab-459f-a631-27bfb5ece908",
+        "secret_key": "4E363095ED354D23F66B97DFF86E2E92",
+        "passphrase": "Zxcqwe123__",
         "sandbox": false,
         "base_url": "https://www.okx.com"
     },
